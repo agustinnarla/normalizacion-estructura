@@ -1,0 +1,11 @@
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\bin\Debug\prySituacion3.exe.config
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\bin\Debug\prySituacion3.exe
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\bin\Debug\prySituacion3.pdb
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\obj\Debug\prySituacion3.csproj.AssemblyReference.cache
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\obj\Debug\prySituacion3.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\obj\Debug\prySituacion3.frmMain.resources
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\obj\Debug\prySituacion3.Properties.Resources.resources
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\obj\Debug\prySituacion3.csproj.GenerateResource.cache
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\obj\Debug\prySituacion3.csproj.CoreCompileInputs.cache
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\obj\Debug\prySituacion3.exe
+D:\Facultad\Semestre3\Programacion3\Final\prySituacion3\obj\Debug\prySituacion3.pdb
